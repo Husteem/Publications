@@ -37,7 +37,8 @@ Published work is organized in publications-table.md with links to full articles
 ```
 Publications/
 ├── README.md (general overview - what I just created)
-├── publications-table.md (detailed index with links)
+├── Research Papers
+├── published (detailed blogs, indexed with links)
 ├── drafts/ (WIP)
 │   └── ...
 └── assets/ ( for images/graphics)
