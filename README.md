@@ -33,13 +33,16 @@ All published work prioritizes:
 Published work is organized in publications-table.md with links to full articles, threads, and analysis pieces.
 
 ---
-** Repo structure:**
+## Repo structure:
+```
 Publications/
 ├── README.md (general overview - what I just created)
 ├── publications-table.md (detailed index with links)
 ├── drafts/ (WIP)
 │   └── ...
 └── assets/ ( for images/graphics)
+```
+
 ---
 
 ## Contact
